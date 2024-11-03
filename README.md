@@ -8,7 +8,7 @@
 
 > **“Learning without building is wasted effort.”**
 
-This space is not for passive observers. Every project here serves a purpose: real development through real code. Tutorials are a starting point, not an endgame. If you're serious, work on a project. Everything else is just distraction.
+Tutorials are a starting point, not an endgame. If you're serious, work on a project. Everything else is just distraction.
 
 ---
 
