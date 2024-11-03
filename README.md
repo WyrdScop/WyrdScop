@@ -1,26 +1,19 @@
 # Welcome
 
----
+**Relentless Builder | Self-Improvement Driven**  
+"Growth doesn’t happen by watching; it happens by doing."
 
-### Self-Taught Developer | Builder in Progress
+## Core Principles
+- **Build, Don’t Just Learn**: You can’t get strong by reading about pushups.
+- **Self-Reliance**: Progress doesn’t come from watching others. It comes from constant, hands-on effort.
+- **Commit to the Fundamentals**: Every line of code is a step forward. Build your foundation, one piece at a time.
 
----
+## Contents
+- Active projects showcasing practical growth.
+- Purposeful code structured for real-world application.
+- Direct, clear documentation—no fluff, just what matters.
 
-> **“Learning without building is wasted effort.”**
-
-Tutorials are a starting point, not an endgame. If you're serious, work on a project. Everything else is just distraction.
-
----
-
-### **Core Principles**
-
-- **Build Relentlessly**: Code is meant to be executed, not theorized.
-- **Direct Progress**: Every feature, every line, every improvement—measured and deliberate.
-- **Focus on Fundamentals**: Learning through action, not through endless explanations.
-
----
-
-### **Contents**
+> "Results come to those who keep building."
 
 - Projects in active development.
 - Purpose-driven code, structured for growth.
