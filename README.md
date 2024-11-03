@@ -1,28 +1,16 @@
 # Welcome
 
-**Relentless Builder | Self-Improvement Driven**  
-"Growth doesn’t happen by watching; it happens by doing."
+**Self-Taught Systems Builder**  
+"Knowledge is earned by building. Mastery is measured in results."
 
-## Core Principles
-- **Build, Don’t Just Learn**: You can’t get strong by reading about pushups.
-- **Self-Reliance**: Progress doesn’t come from watching others. It comes from constant, hands-on effort.
-- **Commit to the Fundamentals**: Every line of code is a step forward. Build your foundation, one piece at a time.
+## Approach
+- **Build Over Theory**: Code exists to work, not to be discussed.
+- **Self-Driven Growth**: Progress is internal. Each project pushes the boundary of what I can create.
+- **Essentials First**: Fundamentals drive excellence. Each line adds clarity, purpose, and resilience.
 
-## Contents
-- Active projects showcasing practical growth.
-- Purposeful code structured for real-world application.
-- Direct, clear documentation—no fluff, just what matters.
+## Focus
+- Projects as proof of practical skill and growth
+- Code crafted for durability and purpose
+- Documentation that’s lean, direct, and useful
 
-> "Results come to those who keep building."
-
-- Projects in active development.
-- Purpose-driven code, structured for growth.
-- Documentation for clarity and precision—no filler, just facts.
-
----
-
-> **"Results over rhetoric."**
-
----
-
-For those who understand: keep building.
+> "Mastery belongs to those who create."
