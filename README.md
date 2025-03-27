@@ -1,17 +1,27 @@
-# Welcome
-**Just a Hobbyist Programmer – Coding for Fun in My Spare Time**
+# Welcome  
+**Hobby Programmer | Game Dev Tinkerer**
 
-## About Me
-I’m a hobbyist developer who enjoys coding once in a while. I primarily focus on Java and like to tinker with projects in my free time. This profile is just a collection of things I’ve put together while exploring programming as a hobby.
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000?logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 
-## Approach
-- **Learning by Doing**: Each project reflects something I’ve picked up along the way.
-- **Simple and Practical**: I focus on straightforward, practical applications.
-- **Always Exploring**: I enjoy experimenting with new tools and techniques whenever I have some spare time.
+Just a hobbyist exploring game development in my free time. I mess with Unreal Engine, Blender, coding, and modding — whatever helps me build or break stuff.
 
-## Skills Showcased
-- **Java & OOP**: Applying core concepts in small projects.
-- **Database Basics**: Simple integrations with MySQL/PostgreSQL.
-- **Error Handling**: Trying to build more reliable programs, bit by bit.
+---
 
-Thanks for stopping by!
+## What I Do  
+- Game projects and tools  
+- 3D modeling and animation  
+- Modding games  
+- Learning by building
+
+---
+
+## Tools & Interests  
+- Unreal Engine  
+- Blender  
+- Java, C++, Python  
+- Game mechanics, shaders, engine logic
+
+---
+
+This is where I drop whatever I’m learning or working on.
